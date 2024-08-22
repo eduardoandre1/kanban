@@ -1,0 +1,18 @@
+.table{
+    width: 20dvw;
+    background-color: aquamarine;
+    justify-content: center;
+    text-align: center;
+    
+}
+.td{
+    text-align: center;
+    background-color: brown;
+}
+.section{
+    width: 100dvw;
+    display: flex;
+    justify-content: space-evenly;
+    height: fit-content;
+    min-height: 80dvh;
+}
